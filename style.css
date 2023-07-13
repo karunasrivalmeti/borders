@@ -1,0 +1,36 @@
+ p
+        {
+            border:4px red;
+            font-style: 2px;
+            width:100px;
+            background-color: white;
+            padding: 5px;
+            margin: 10px;
+        }
+        p.none {
+            border-style: none;
+        }
+        p.dotted {
+            border-style: dotted;
+        }
+        p.dashed {
+            border-style: dashed;
+        }
+        p.solid {
+            border-style: solid;
+        }
+        p.groove {
+            border-style: groove;
+        }
+        p.ridge {
+            border-style: ridge;
+        }
+        p.double {
+            border-style: double;
+        }
+        p.inset {
+            border-style: inset;
+        }
+        p.outset {
+            border-style: outset;
+        }
